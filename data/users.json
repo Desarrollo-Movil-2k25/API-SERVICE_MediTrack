@@ -1,0 +1,29 @@
+[
+  {
+    "id": "208630913",
+    "name": "Esteban",
+    "fLastName": "Amores",
+    "sLastName": "Barrantes",
+    "email": "estebanamoresbarrantes@gmail.com",
+    "nameUser": "Mramores",
+    "password": "778777"
+  },
+  {
+    "id": "U004",
+    "name": "Yordi",
+    "fLastName": "Contreras",
+    "sLastName": "Zamora",
+    "email": "yordi.con@gmail.com",
+    "nameUser": "yordi19",
+    "password": "778777"
+  },
+  {
+    "id": "U002",
+    "name": "María Fernanda",
+    "fLastName": "Rodríguez",
+    "sLastName": "Cruz",
+    "email": "maria.fernandez@gmail.com",
+    "nameUser": "mariarc",
+    "password": "nuevo123"
+  }
+]

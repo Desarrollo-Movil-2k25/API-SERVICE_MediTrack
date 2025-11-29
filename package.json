@@ -1,0 +1,26 @@
+{
+  "name": "api-service_meditrack",
+  "version": "1.0.0",
+  
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desarrollo-Movil-2k25/API-SERVICE_MediTrack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Desarrollo-Movil-2k25/API-SERVICE_MediTrack/issues"
+  },
+  "homepage": "https://github.com/Desarrollo-Movil-2k25/API-SERVICE_MediTrack#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
