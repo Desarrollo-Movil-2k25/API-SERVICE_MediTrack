@@ -87,7 +87,7 @@ export const UserModel = {
             writeJSON(jsonFile, userList);
             return {
                 data: user,
-                responseCode: HTTP_STATUS.OK,
+                responseCode: HTTP_STATUS.CREATED,
                 message: "The user was inserted successfully."
             };
 

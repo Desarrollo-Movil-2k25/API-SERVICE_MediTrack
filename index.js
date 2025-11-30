@@ -3,6 +3,7 @@
 import express from "express";
 import cors from "cors";
 import userRoutes from "./routes/user.routes.js";
+import medicationRoutes from "./routes/medication.routes.js";
 
 const app = express();
 
@@ -12,6 +13,7 @@ app.use(express.json()); // Para recibir JSON
 
 // === Rutas ===
 app.use("/api/users", userRoutes);
+app.use("/api/medications", medicationRoutes);
 
 // === Puerto ===
 const PORT = process.env.PORT || 3000;

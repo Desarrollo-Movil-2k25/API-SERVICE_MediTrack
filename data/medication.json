@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": 3,
+    "name": "Ibuprofeno",
+    "dose": "200mg",
+    "description": "Para dolor muscular",
+    "frequency": "Cada 8 horas",
+    "time": "12:00am",
+    "startDate": "2025-11-29",
+    "endDate": "2025-12-10",
+    "reminderActive": null,
+    "image": null,
+    "taken": null,
+    "ownerUser": "yordi19"
+  },
+  {
+    "id": 4,
+    "name": "Ibuprofeno",
+    "dose": "200mg",
+    "description": "Para dolor muscular",
+    "frequency": "Cada 8 horas",
+    "time": "12:00am",
+    "startDate": "2025-11-29",
+    "endDate": "2025-12-10",
+    "reminderActive": null,
+    "image": null,
+    "taken": null,
+    "ownerUser": "yordi19"
+  },
+  {
+    "id": 1,
+    "name": "Ibuprofeno",
+    "dose": "200mg",
+    "description": "Para dolor muscular",
+    "frequency": "Cada 8 horas",
+    "time": "12:00am",
+    "startDate": "2025-11-29",
+    "endDate": "2025-12-10",
+    "reminderActive": null,
+    "image": null,
+    "taken": null,
+    "ownerUser": "Mramores"
+  },
+  {
+    "id": 4,
+    "name": "Ibuprofenoo ****",
+    "dose": "200mg",
+    "description": "Para dolor muscular",
+    "frequency": "Cada 8 horas",
+    "time": "12:00am",
+    "startDate": "2025-11-29",
+    "endDate": "2025-12-10",
+    "reminderActive": null,
+    "image": null,
+    "taken": null,
+    "ownerUser": "Mramores"
+  }
+]
