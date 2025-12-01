@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f20f63a6-33bd-4770-9b23-bab6e5a7c29a/resourceGroups/appsvc_linux_eastus/providers/Microsoft.Web/sites/API-MediTrack",
+    "appService.deploySubpath": "."
+}
